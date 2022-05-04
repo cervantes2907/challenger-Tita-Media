@@ -1,0 +1,38 @@
+.commentCard{
+    display:flex;
+    margin-left: 1rem;
+    border:1px solid black;
+    background-color: rgb(218, 231, 249);
+    border-radius:5px;
+    color: black;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.4);
+}
+.picture{
+ 
+ padding: 8px;
+   
+
+}
+.contentUser{
+    margin-left: 2rem;
+    font-weight: bold;
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+
+.title{
+    margin-bottom: -7px;
+    
+
+}
+
+.firstName{
+    margin-bottom: -7px;
+}
+
+.message{
+    margin-left: 1rem;
+     margin-top: 7.5%;
+     font-size: 1rem;
+}

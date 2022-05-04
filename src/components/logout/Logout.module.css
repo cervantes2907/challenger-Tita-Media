@@ -1,0 +1,28 @@
+.logoutContainer{
+    display: flex;
+    background-color: beige;
+    justify-content: space-between;
+
+}
+
+.logoutUser{
+ 
+    padding: 0.6rem;
+    background-color: beige;
+    border: none;
+    font-size: 1rem;
+    border-radius: 4px;
+    margin-right: 10px;
+  
+  
+}
+
+.title{
+    margin-left: 1rem;
+    color:black;
+}
+
+.logo{
+    padding: 2px;
+    border-radius: 42px;
+}
